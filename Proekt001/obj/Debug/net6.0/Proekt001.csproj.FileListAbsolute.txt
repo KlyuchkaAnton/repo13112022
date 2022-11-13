@@ -1,0 +1,15 @@
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\bin\Debug\net6.0\Proekt001.exe
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\bin\Debug\net6.0\Proekt001.deps.json
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\bin\Debug\net6.0\Proekt001.runtimeconfig.json
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\bin\Debug\net6.0\Proekt001.dll
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\bin\Debug\net6.0\Proekt001.pdb
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\obj\Debug\net6.0\Proekt001.csproj.AssemblyReference.cache
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\obj\Debug\net6.0\Proekt001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\obj\Debug\net6.0\Proekt001.AssemblyInfoInputs.cache
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\obj\Debug\net6.0\Proekt001.AssemblyInfo.cs
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\obj\Debug\net6.0\Proekt001.csproj.CoreCompileInputs.cache
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\obj\Debug\net6.0\Proekt001.dll
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\obj\Debug\net6.0\refint\Proekt001.dll
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\obj\Debug\net6.0\Proekt001.pdb
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\obj\Debug\net6.0\Proekt001.genruntimeconfig.cache
+D:\GB\TEMPGB\repo13112022local\Examples\Proekt001\obj\Debug\net6.0\ref\Proekt001.dll
